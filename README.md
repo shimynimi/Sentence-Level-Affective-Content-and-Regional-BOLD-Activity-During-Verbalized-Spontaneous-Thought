@@ -1,0 +1,1 @@
+# Sentence-Level-Affective-Content-and-Regional-BOLD-Activity-During-Verbalized-Spontaneous-Thought
