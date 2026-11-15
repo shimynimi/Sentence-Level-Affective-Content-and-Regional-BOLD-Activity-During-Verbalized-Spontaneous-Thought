@@ -1,0 +1,12 @@
+# Initial research environment. Pin versions after the first tested end-to-end run.
+numpy
+pandas
+scipy
+statsmodels
+nibabel
+nilearn
+pybids
+openpyxl
+matplotlib
+seaborn
+jupyter
