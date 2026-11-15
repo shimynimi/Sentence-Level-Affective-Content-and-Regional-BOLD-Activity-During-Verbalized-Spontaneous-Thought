@@ -1,0 +1,23 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Neuroimaging and participant-level source data
+*.nii
+*.nii.gz
+*.gii
+*.dtseries.nii
+*.dscalar.nii
+*.tsv
+*.xlsx
+*.wav
+*.mp4
+
+# Local data and generated outputs
+data/
+results/*
+!results/README.md
